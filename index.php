@@ -307,11 +307,18 @@
       </div>
 
       <div class="row">
-          <div class="col-lg-8 col-md-offset-2 text-center">
+          <div class="col-lg-4 col-md-offset-2 text-center">
           <img  src="img/linkedin.png" alt="Generic placeholder image">
           <h2>LinkedIn</h2>
           <br>
           <a id="tomboltemui" class="btn btn-default" href="https://www.linkedin.com/in/harri-hidayat-a783b1a8" target="_blank" role="button">Terhubung Dengan Saya</a>
+          </div>
+
+          <div class="col-lg-4 text-center">
+          <img  src="img/github.png" alt="Generic placeholder image">
+          <h2>Github</h2>
+          <br>
+          <a id="tomboltemui" class="btn btn-default" href="https://github.com/harrihidayat/" target="_blank" role="button">Ikuti Saya</a>
           </div>
       </div>
 
