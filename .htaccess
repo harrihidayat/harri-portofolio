@@ -1,0 +1,10 @@
+ErrorDocument 400 http://harri-portofolio.pe.hu/404.php
+ErrorDocument 404 http://harri-portofolio.pe.hu/404.php
+ErrorDocument 500 http://harri-portofolio.pe.hu/404.php
+
+
+Options -Indexes
+ErrorDocument 403 http://harri-portofolio.pe.hu/403.php
+Options +FollowSymLinks
+
+DirectoryIndex index.php

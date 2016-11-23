@@ -1,0 +1,167 @@
+body {
+	background-image: url('../img/bg2.jpg');
+	z-index: -1;
+	max-width: 100%;
+    height: auto;
+	background-position: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	/*  min-height: 2000px;*/
+  	padding-top: 50px;
+}
+
+nav {
+	border-radius: 0px !important;
+}
+
+.navbar-brand {
+	color: #f0f0f0 !important;
+}
+
+.efek {
+	transition: color 0.5s;
+}
+
+.efek:hover {
+	transition: color 0.5s;
+	color: white !important;
+
+}
+
+.pemotong {
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 60px;
+
+}
+
+#awal {
+ 	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 600px;
+}
+
+#tombolawal {
+	border: 2px solid white;
+	width: 200px;
+	height: 50px;
+	padding: 12px;
+	font-weight: 700;
+	transition: background 0.5s;
+	background: white;
+	color: black;
+
+}
+
+#tombolawal:hover {
+	transition: background 0.5s;
+	color: white;
+	background: #696864;
+}
+
+#tentang {
+	background-image: url(../img/whitebg.jpg);
+	background-size: cover;
+	width: 100%;
+}
+
+#tentangawal {
+	padding: 30px;
+}
+
+.tentangdetail {
+	padding: 50px;
+}
+
+.icon-besar {
+	font-size: 80px;
+}
+
+.tentangparagraf {
+	height: 100px;
+}
+
+#kemampuan {
+	background-image: url(../img/whitebg.jpg);
+	background-size: cover;
+	width: 100%;
+	padding-bottom: 30px;
+}
+
+.kemampuanawal {
+	padding: 30px;
+}
+
+.kemampuanprogress {
+	padding-top: 10px;
+}
+
+.progress {
+	border: 1px solid #CCC;
+}
+
+#portofolio {
+	background-image: url(../img/whitebg.jpg);
+	background-size: cover;
+	width: 100%;
+	padding-bottom: 30px;
+}
+
+.portofolioparagraf {
+	height: 80px;
+}
+
+.tombollebar {
+	width: 100%;
+	border-radius: 0px !important;
+}
+
+.tombollebarkeepradius {
+	width: 100%;
+}
+
+#temuisaya {
+	color: #f0f0f0;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+#tomboltemui {
+	color: black;
+	background: white;
+	border: 2px solid white;
+	width: 200px;
+	height: 50px;
+	padding: 12px;
+	font-weight: 700;
+	transition: background 0.5s;
+}
+
+#tomboltemui:hover {
+	transition: background 0.5s;
+	background: #007ab9;
+	color: #f0f0f0;
+}
+
+.starter-template {
+  padding: 100px 15px;
+  text-align: center;
+  color: #f0f0f0;
+}
+
+#isiemail {
+	border-radius: 5px;
+	max-height: 180px;
+	width: 100%;
+	min-height: 132px;
+	max-width: 100%;
+}
+
+.texttebal {
+	font-weight: 600;
+}
