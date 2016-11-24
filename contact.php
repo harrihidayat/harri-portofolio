@@ -117,19 +117,19 @@ if (isset($_POST['kirim'])) {
 
         <div class="col-md-6">
           <div class="form-group">
-            <input type="text" name="nama" class="form-control" placeholder="Nama*" required>
+            <input type="text" name="nama" class="form-control" placeholder="Nama (Dibutuhkan)" required>
           </div>
           <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Email*" required>
+            <input type="email" name="email" class="form-control" placeholder="Email (Dibutuhkan)" required>
           </div>
           <div class="form-group">
-            <input type="text" name="subjek" class="form-control" placeholder="Subjek" required>
+            <input type="text" name="subjek" class="form-control" placeholder="Subjek">
           </div>
         </div>
 
         <div class="col-md-6">
           <div class="form-group">
-            <textarea id="isiemail" name="pesan" cols="30" rows="6" placeholder="Isi Pesan*" required></textarea>
+            <textarea id="isiemail" name="pesan" cols="30" rows="6" placeholder="Isi Pesan (Dibutuhkan)" required></textarea>
           </div>
         </div>
 

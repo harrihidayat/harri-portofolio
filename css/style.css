@@ -119,10 +119,21 @@ nav {
 .tombollebar {
 	width: 100%;
 	border-radius: 0px !important;
+	transition: background 0.5s;
+}
+
+.tombollebar:hover {
+	transition: background 0.5s;
 }
 
 .tombollebarkeepradius {
 	width: 100%;
+	transition: background 0.5s;
+}
+
+.tombollebarkeepradius:hover {
+	width: 100%;
+	transition: background 0.5s;
 }
 
 #temuisaya {

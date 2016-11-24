@@ -259,7 +259,7 @@
             <img src="img/portofolio/phpro.jpg" alt="">
             <div class="caption">
             <h3>PHPRO</h3>
-            <p class="portofolioparagraf">PHPRO merupakan sebuah situs pembelajaran pemrograman php, ini merupakan karya saya untuk tugas skripsi saya, untuk frontendnya masih memakai sebuah template.</p>
+            <p class="portofolioparagraf">PHPRO merupakan sebuah situs pembelajaran pemrograman php dengan beberapa fitur seperti daftar, login, materi, forum, komentar dan kontak, ini merupakan karya saya untuk tugas akhir perkuliahan, untuk frontendnya masih memakai sebuah template.</p>
             <a href="http://www.phpro.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
@@ -269,7 +269,7 @@
             <img src="img/portofolio/zerostudio.jpg" alt="">
             <div class="caption">
             <h3>Zero Studio</h3>
-            <p class="portofolioparagraf">zero studio merupakan website yang saya bangun untuk tim yang dulu pernah saya ikuti, website ini berfungsi sebagai pengenal studio tersebut, untuk fontendnya masih memakai sebuah template.</p>
+            <p class="portofolioparagraf">Zero Studio merupakan website yang saya bangun untuk tim yang dulu pernah saya ikuti, website ini berfungsi sebagai pengenal studio tersebut, juga memperlihatkan portofolio, anggota tim, dan kontak, untuk fontendnya juga masih memakai sebuah template.</p>
             <a href="http://www.zerostudio.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
@@ -279,7 +279,7 @@
             <img src="img/portofolio/pribadi.jpg" alt="">
             <div class="caption">
             <h3>Website Pribadi</h3>
-            <p class="portofolioparagraf">harri-portofolio merupakan website yang saya bangun untuk mengenalkan diri saya dan mempresentasikan hasil karya yang telah saya buat.</p>
+            <p class="portofolioparagraf">Sebuah website yang saya bangun untuk mengenalkan diri saya dan mempresentasikan hasil karya yang telah saya buat.</p>
             <a href="http://www.harri-portofolio.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
