@@ -37,7 +37,7 @@
     <div class="container" id="awal">
 
       <div class="starter-template">
-        <div class="col-lg-8 col-md-offset-2 text-center">
+        <div class="col-md-8 col-md-offset-2 text-center">
           <img class="img-circle" src="img/self.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2>Harri Hidayat</h2>
           <h3>Seorang web developer pemula dan penyuka teknologi seputar IT!</h3>
@@ -51,7 +51,7 @@
     <div class="container" id="tentang">
      
       <div class="row" id="tentangawal">
-        <div class="col-lg-8 col-md-offset-2 text-center">
+        <div class="col-md-8 col-md-offset-2 text-center">
           <h2>Tentang Saya</h2>
           <h3>Beberapa fakta singkat tentang diri saya.</h3>
         </div>
@@ -62,22 +62,22 @@
           <span class="glyphicon glyphicon-map-marker icon-besar" aria-hidden="true"></span>
           <h2>Tempat Tinggal</h2>
           <p class="tentangparagraf">Saya bertempat tinggal di Sei Mencirim, Deli Serdang. Tepatnya di alamat Dusun IV Jl. Pala Gg. Mawar 2</p>
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
           <span class="glyphicon glyphicon-console icon-besar" aria-hidden="true"></span>
           <h2>Koding</h2>
           <p class="tentangparagraf">Saya ngoding untuk membuat website dengan menggunakan html, css, php, mysql, bootstrap, dan yang lainnya.</p>
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
           <span class="glyphicon glyphicon-headphones icon-besar" aria-hidden="true"></span>
           <h2>Musik</h2>
           <p class="tentangparagraf">Saya suka mendengan musik disaat tertentu, musik yang saya suka ialah musik dari film yang pernah saya tonton.</p>
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
           <span class="glyphicon glyphicon-heart-empty icon-besar" aria-hidden="true"></span>
           <h2>Gaming</h2>
           <p class="tentangparagraf">Saya seorang gamer PC dengan sebuah PC rakitan sendiri. Tipe game yang saya senangi ialah RPG, FPS, dan sedikit Simulasi.</p>
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
       
     </div>
@@ -88,7 +88,7 @@
     <div class="container" id="kemampuan">
      
       <div class="row">
-        <div class="col-lg-8 col-md-offset-2 text-center kemampuanawal">
+        <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Kemampuan Saya</h2>
           <h3>Beberapa kemampuan yang saya miliki.</h3>
         </div>
@@ -247,7 +247,7 @@
     <div class="container" id="portofolio">
      
       <div class="row">
-        <div class="col-lg-8 col-md-offset-2 text-center kemampuanawal">
+        <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Portofolio Saya</h2>
           <h3>Beberapa hal yang telah saya kerjakan.</h3>
         </div>
@@ -259,7 +259,7 @@
             <img src="img/portofolio/phpro.jpg" alt="">
             <div class="caption">
             <h3>PHPRO</h3>
-            <p class="portofolioparagraf">PHPRO merupakan sebuah situs pembelajaran pemrograman php, ini merupakan karya saya untuk tugas skripsi saya, untuk frontend nya masih memakai sebuah template.</p>
+            <p class="portofolioparagraf">PHPRO merupakan sebuah situs pembelajaran pemrograman php, ini merupakan karya saya untuk tugas skripsi saya, untuk frontendnya masih memakai sebuah template.</p>
             <a href="http://www.phpro.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
@@ -269,7 +269,7 @@
             <img src="img/portofolio/zerostudio.jpg" alt="">
             <div class="caption">
             <h3>Zero Studio</h3>
-            <p class="portofolioparagraf">zero studio merupakan website yang saya bangun untuk tim yang dulu pernah saya ikuti, website ini berfungsi sebagai pengenal studio tersebut.</p>
+            <p class="portofolioparagraf">zero studio merupakan website yang saya bangun untuk tim yang dulu pernah saya ikuti, website ini berfungsi sebagai pengenal studio tersebut, untuk fontendnya masih memakai sebuah template.</p>
             <a href="http://www.zerostudio.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
@@ -301,20 +301,20 @@
     <div class="container" id="temuisaya">
      
       <div class="row">
-        <div class="col-lg-8 col-md-offset-2 text-center kemampuanawal">
+        <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Temui Saya Lewat Dunia Maya</h2>
         </div>
       </div>
 
       <div class="row">
-          <div class="col-lg-4 col-md-offset-2 text-center">
+          <div class="col-md-4 col-md-offset-2 text-center">
           <img  src="img/linkedin.png" alt="Generic placeholder image">
           <h2>LinkedIn</h2>
           <br>
           <a id="tomboltemui" class="btn btn-default" href="https://www.linkedin.com/in/harri-hidayat-a783b1a8" target="_blank" role="button">Terhubung Dengan Saya</a>
           </div>
 
-          <div class="col-lg-4 text-center">
+          <div class="col-md-4 text-center">
           <img  src="img/github.png" alt="Generic placeholder image">
           <h2>Github</h2>
           <br>
