@@ -61,8 +61,8 @@ if (isset($_POST['kirim'])) {
 
       <div class="collapse navbar-collapse" id="target-list">
         <ul class="nav navbar-nav">
-          <li><a class="efek" href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Beranda</a></li>
-          <li class="active"><a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Hubungi Saya</a></li>
+          <li><a class="efek" href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Beranda</a></li>
+          <li class="active"><a href="contact.php"><i class="fa fa-envelope" aria-hidden="true"></i> Hubungi Saya</a></li>
         </ul>
       </div>
     </nav>

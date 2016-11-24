@@ -28,8 +28,8 @@
 
       <div class="collapse navbar-collapse" id="target-list">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Beranda</a></li>
-          <li><a class="efek" href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Hubungi Saya</a></li>
+          <li class="active"><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Beranda</a></li>
+          <li><a class="efek" href="contact.php"><i class="fa fa-envelope" aria-hidden="true"></i> Hubungi Saya</a></li>
         </ul>
       </div>
     </nav>
@@ -59,22 +59,22 @@
 
       <div class="row">
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <span class="glyphicon glyphicon-map-marker icon-besar" aria-hidden="true"></span>
+          <i class="fa fa-map-marker fa-5x" aria-hidden="true"></i>
           <h2>Tempat Tinggal</h2>
           <p class="tentangparagraf">Saya bertempat tinggal di Sei Mencirim, Deli Serdang. Tepatnya di alamat Dusun IV Jl. Pala Gg. Mawar 2</p>
         </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <span class="glyphicon glyphicon-console icon-besar" aria-hidden="true"></span>
+          <i class="fa fa-code fa-5x" aria-hidden="true"></i>
           <h2>Koding</h2>
           <p class="tentangparagraf">Saya ngoding untuk membuat website dengan menggunakan html, css, php, mysql, bootstrap, dan yang lainnya.</p>
         </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <span class="glyphicon glyphicon-headphones icon-besar" aria-hidden="true"></span>
+          <i class="fa fa-headphones fa-5x" aria-hidden="true"></i>
           <h2>Musik</h2>
           <p class="tentangparagraf">Saya suka mendengan musik disaat tertentu, musik yang saya suka ialah musik dari film yang pernah saya tonton.</p>
         </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <span class="glyphicon glyphicon-heart-empty icon-besar" aria-hidden="true"></span>
+          <i class="fa fa-gamepad fa-5x" aria-hidden="true"></i>
           <h2>Gaming</h2>
           <p class="tentangparagraf">Saya seorang gamer PC dengan sebuah PC rakitan sendiri. Tipe game yang saya senangi ialah RPG, FPS, dan sedikit Simulasi.</p>
         </div><!-- /.col-md-4 -->
