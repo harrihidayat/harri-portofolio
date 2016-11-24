@@ -148,6 +148,23 @@ nav {
 	color: #f0f0f0;
 }
 
+#tomboltemui2 {
+	color: black;
+	background: white;
+	border: 2px solid white;
+	width: 200px;
+	height: 50px;
+	padding: 12px;
+	font-weight: 700;
+	transition: background 0.5s;
+}
+
+#tomboltemui2:hover {
+	transition: background 0.5s;
+	background: #111111;
+	color: #f0f0f0;
+}
+
 .starter-template {
   padding: 100px 15px;
   text-align: center;
