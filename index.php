@@ -40,7 +40,7 @@
         <div class="col-md-8 col-md-offset-2 text-center">
           <img class="img-circle" src="img/self.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2>Harri Hidayat</h2>
-          <h3>Seorang web developer pemula dan penyuka teknologi seputar IT!</h3>
+          <h3>Seorang web developer pemula yang menyukai teknologi seputar IT!</h3>
           <br>
           <a id="tombolawal" class="btn btn-default" href="contact.php" role="button">Hubungi</a>
         </div>
@@ -66,17 +66,17 @@
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
           <i class="fa fa-code fa-5x" aria-hidden="true"></i>
           <h2>Koding</h2>
-          <p class="tentangparagraf">Saya ngoding untuk membuat website dengan menggunakan html, css, php, mysql, bootstrap, dan yang lainnya.</p>
+          <p class="tentangparagraf">Saya biasa ngoding dengan menggunakan HTML, CSS, PHP, MySQL, Bootstrap, dan yang lainnya. Beberapa hasil dari kodingan saya ialah sebuah website.</p>
         </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
           <i class="fa fa-headphones fa-5x" aria-hidden="true"></i>
           <h2>Musik</h2>
-          <p class="tentangparagraf">Saya suka mendengan musik disaat tertentu, musik yang saya suka ialah musik dari film yang pernah saya tonton.</p>
+          <p class="tentangparagraf">Saya suka mendengarkan musik disaat tertentu, musik yang saya senangi banyak dari genre J-pop.</p>
         </div><!-- /.col-md-4 -->
         <div class="col-sm-6 col-md-3 text-center tentangdetail">
           <i class="fa fa-gamepad fa-5x" aria-hidden="true"></i>
           <h2>Gaming</h2>
-          <p class="tentangparagraf">Saya seorang gamer PC dengan sebuah PC rakitan sendiri. Tipe game yang saya senangi ialah RPG, FPS, dan sedikit Simulasi.</p>
+          <p class="tentangparagraf">Saya bermain game di PC yang saya rakit sendiri. Jenis game yang saya senangi ialah RPG, FPS, dan sedikit Simulasi.</p>
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
       
@@ -139,7 +139,7 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
                 Amatir
                 </div>
               </div>
@@ -150,8 +150,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-                Pemula
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                Dasar
                 </div>
               </div>
             </div>
@@ -161,8 +161,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-                Pemula
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                Dasar
                 </div>
               </div>
             </div>
@@ -172,7 +172,7 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
                 Amatir
                 </div>
               </div>
@@ -183,8 +183,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-                Pemula
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                Dasar
                 </div>
               </div>
             </div>
@@ -194,8 +194,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-                Pemula
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                Dasar
                 </div>
               </div>
             </div>
@@ -217,8 +217,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-                Pemula
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                Dasar
                 </div>
               </div>
             </div>
@@ -228,8 +228,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-                Pemula
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                Dasar
                 </div>
               </div>
             </div>
@@ -318,7 +318,7 @@
           <img  src="img/github.png" alt="Generic placeholder image">
           <h2>Github</h2>
           <br>
-          <a id="tomboltemui" class="btn btn-default" href="https://github.com/harrihidayat/" target="_blank" role="button">Ikuti Saya</a>
+          <a id="tomboltemui2" class="btn btn-default" href="https://github.com/harrihidayat/" target="_blank" role="button">Ikuti Saya</a>
           </div>
       </div>
 
