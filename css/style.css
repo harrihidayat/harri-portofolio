@@ -2,9 +2,11 @@ body {
 	background-image: url('../img/bg2.jpg');
 	z-index: -1;
 	max-width: 100%;
-    height: auto;
-	background-position: fixed;
-	background-size: cover;
+    /*height: auto;*/
+	background-attachment: fixed;
+    background-position: center;
+	/*background-size: cover;*/
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 
 	/*  min-height: 2000px;*/
@@ -30,9 +32,9 @@ nav {
 }
 
 .pemotong {
-	background-image: url('../img/bg.jpg');
+	/*background-image: url('../img/bg.jpg');
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat;*/
 	width: 100%;
 	height: 60px;
 
@@ -44,6 +46,8 @@ nav {
 	background-repeat: no-repeat;
 	width: 100%;
 	height: 600px;
+	background-attachment: fixed;
+    background-position: center;
 }
 
 #tombolawal {
@@ -66,7 +70,7 @@ nav {
 
 #tentang {
 	background-image: url(../img/whitebg.jpg);
-	background-size: cover;
+	/*background-size: cover;*/
 	width: 100%;
 }
 
@@ -88,7 +92,7 @@ nav {
 
 #kemampuan {
 	background-image: url(../img/whitebg.jpg);
-	background-size: cover;
+	/*background-size: cover;*/
 	width: 100%;
 	padding-bottom: 30px;
 }
@@ -107,7 +111,7 @@ nav {
 
 #portofolio {
 	background-image: url(../img/whitebg.jpg);
-	background-size: cover;
+	/*background-size: cover;*/
 	width: 100%;
 	padding-bottom: 30px;
 }
@@ -192,4 +196,38 @@ nav {
 
 .texttebal {
 	font-weight: 600;
+}
+
+/*navbar x animation  toggle*/
+
+.navbar-toggle {
+  border: none;
+  background: transparent !important;
+}
+.navbar-toggle:hover {
+  background: transparent !important;
+}
+.navbar-toggle .icon-bar {
+  width: 22px;
+  transition: all 0.2s;
+}
+.navbar-toggle .top-bar {
+  transform: rotate(45deg);
+  transform-origin: 10% 10%;
+}
+.navbar-toggle .middle-bar {
+  opacity: 0;
+}
+.navbar-toggle .bottom-bar {
+  transform: rotate(-45deg);
+  transform-origin: 10% 90%;
+}
+.navbar-toggle.collapsed .top-bar {
+  transform: rotate(0);
+}
+.navbar-toggle.collapsed .middle-bar {
+  opacity: 1;
+}
+.navbar-toggle.collapsed .bottom-bar {
+  transform: rotate(0);
 }

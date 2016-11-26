@@ -51,10 +51,10 @@ if (isset($_POST['kirim'])) {
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#target-list">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#target-list">
+          <span class="icon-bar top-bar"></span>
+          <span class="icon-bar middle-bar"></span>
+          <span class="icon-bar bottom-bar"></span>
         </button>
         <a href="index.php" class="navbar-brand">Harri Hidayat</a>
       </div>
