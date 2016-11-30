@@ -34,6 +34,7 @@ if (isset($_POST['kirim'])) {
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Harri Portofolio</title>
     <?php require_once 'css.php' ?>
+    <?php require_once 'js.php' ?>
     <style>
       
       #awal {
@@ -91,12 +92,13 @@ if (isset($_POST['kirim'])) {
         {
         ?>
         
-        <div class="col-md-12">
-          <div class="alert alert-success alert-dismissible" role="alert">
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <strong>Sukses!</strong> Pesan Kamu Telah Terkirim.
-          </div>
-        </div>
+        <script>
+          swal(
+            'Sukses!',
+            'Pesan Kamu Telah Terkirim!',
+            'success'
+          );
+        </script>
 
         <?php
         }
@@ -104,12 +106,13 @@ if (isset($_POST['kirim'])) {
         {
         ?>
         
-        <div class="col-md-12">
-          <div class="alert alert-danger alert-dismissible" role="alert">
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <strong>Maaf Terjadi Kesalahan!</strong> Coba Ulangi Kembali.
-          </div>
-        </div>
+        <script>
+          swal(
+            'Oops...',
+            'Terjadi Kesalahan, Coba Ulangi Kembali!',
+            'error'
+          );
+        </script>
 
         <?php
         }
@@ -139,7 +142,7 @@ if (isset($_POST['kirim'])) {
       </form>
 
     </div>
-
-    <?php require_once 'js.php' ?>
+    
+    
   </body>
 </html>
