@@ -106,7 +106,7 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+                <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
                 Amatir
                 </div>
               </div>
@@ -117,7 +117,7 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+                <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
                 Amatir
                 </div>
               </div>
@@ -140,7 +140,7 @@
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
-                Amatir
+                Pemula
                 </div>
               </div>
             </div>
@@ -150,8 +150,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                Dasar
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                
                 </div>
               </div>
             </div>
@@ -161,8 +161,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                Dasar
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                
                 </div>
               </div>
             </div>
@@ -172,8 +172,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
-                Amatir
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
+                Pemula
                 </div>
               </div>
             </div>
@@ -183,8 +183,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                Dasar
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                
                 </div>
               </div>
             </div>
@@ -194,8 +194,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                Dasar
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                
                 </div>
               </div>
             </div>
@@ -228,8 +228,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                Dasar
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
+                Pemula
                 </div>
               </div>
             </div>
@@ -239,8 +239,8 @@
             </div>
             <div class="col-md-11 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                Dasar
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
+                Pemula
                 </div>
               </div>
             </div>
@@ -308,6 +308,7 @@
               <span class="label label-info">HTML</span>
               <span class="label label-info">CSS</span>
               <span class="label label-info">Bootstrap</span>
+              <span class="label label-info">PHP</span>
             </p>
             <a href="http://www.harri-portofolio.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
