@@ -200,6 +200,17 @@
               </div>
             </div>
 
+            <div class="col-md-1">
+              <h4>AngularJS</h4>
+            </div>
+            <div class="col-md-11 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
         </div>
@@ -260,6 +271,12 @@
             <div class="caption">
             <h3>PHPRO</h3>
             <p class="portofolioparagraf">PHPRO merupakan sebuah situs pembelajaran pemrograman php dengan beberapa fitur seperti daftar, login, materi, forum, komentar dan kontak, ini merupakan karya saya untuk tugas akhir perkuliahan, untuk frontendnya masih memakai sebuah template.</p>
+            <p>
+              <span class="label label-info">HTML</span>
+              <span class="label label-info">CSS</span>
+              <span class="label label-info">PHP</span>
+              <span class="label label-info">MySQL</span>
+            </p>
             <a href="http://www.phpro.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
@@ -270,6 +287,13 @@
             <div class="caption">
             <h3>Zero Studio</h3>
             <p class="portofolioparagraf">Zero Studio merupakan website yang saya bangun untuk tim yang dulu pernah saya ikuti, website ini berfungsi sebagai pengenal studio tersebut, juga memperlihatkan portofolio, anggota tim, dan kontak, untuk fontendnya juga masih memakai sebuah template.</p>
+            <p>
+              <span class="label label-info">HTML</span>
+              <span class="label label-info">CSS</span>
+              <span class="label label-info">Bootstrap</span>
+              <span class="label label-info">PHP</span>
+              <span class="label label-info">MySQL</span>
+            </p>
             <a href="http://www.zerostudio.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
@@ -279,12 +303,17 @@
             <img src="img/portofolio/pribadi.jpg" alt="">
             <div class="caption">
             <h3>Website Pribadi</h3>
-            <p class="portofolioparagraf">Sebuah website yang saya bangun untuk mengenalkan diri saya dan mempresentasikan hasil karya yang telah saya buat.</p>
+            <p class="portofolioparagraf">Sebuah website yang saya bangun untuk mengenalkan diri saya dan mempresentasikan portofolio saya.</p>
+            <p>
+              <span class="label label-info">HTML</span>
+              <span class="label label-info">CSS</span>
+              <span class="label label-info">Bootstrap</span>
+            </p>
             <a href="http://www.harri-portofolio.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-5">
+        <!-- <div class="col-sm-6 col-md-5">
           <div class="thumbnail">
             <img src="img/portofolio/segera.jpg" alt="">
             <div class="caption">
@@ -293,7 +322,7 @@
             <a href="#!" class="btn btn-success btn-lg disabled tombollebar">Segera</a>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
 
     </div>
