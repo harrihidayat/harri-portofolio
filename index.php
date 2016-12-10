@@ -16,23 +16,7 @@
   
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#target-list">
-          <span class="icon-bar top-bar"></span>
-          <span class="icon-bar middle-bar"></span>
-          <span class="icon-bar bottom-bar"></span>
-        </button>
-        <a href="index.php" class="navbar-brand">Harri Hidayat</a>
-      </div>
-
-      <div class="collapse navbar-collapse" id="target-list">
-        <ul class="nav navbar-nav">
-          <li class="active"><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Beranda</a></li>
-          <li><a class="efek" href="contact.php"><i class="fa fa-envelope" aria-hidden="true"></i> Hubungi Saya</a></li>
-        </ul>
-      </div>
-    </nav>
+    <?php require_once 'nav.php' ?>
 
     <div class="container" id="awal">
 
@@ -42,7 +26,7 @@
           <h2>Harri Hidayat</h2>
           <h3>Seorang web developer pemula yang menyukai teknologi seputar IT!</h3>
           <br>
-          <a id="tombolawal" class="btn btn-default" href="contact.php" role="button">Hubungi</a>
+          <a id="tombolawal" class="btn btn-default" href="https://goo.gl/fDWuRo" target="_blank" role="button">Unduh Resume Saya</a>
         </div>
       </div>
 
@@ -58,25 +42,20 @@
       </div>
 
       <div class="row">
-        <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <i class="fa fa-map-marker fa-5x" aria-hidden="true"></i>
+        <div class="col-sm-6 col-md-4 text-center tentangdetail">
+          <i class="fa fa-home fa-5x" aria-hidden="true"></i>
           <h2>Tempat Tinggal</h2>
-          <p class="tentangparagraf">Saya bertempat tinggal di Sei Mencirim, Deli Serdang. Tepatnya di alamat Dusun IV Jl. Pala Gg. Mawar 2</p>
+          <p class="tentangparagraf">Saya bertempat tinggal di Sei Mencirim, Deli Serdang. Tepatnya di alamat Dusun IV Jl. Pala Gg. Mawar 2.</p>
         </div><!-- /.col-md-4 -->
-        <div class="col-sm-6 col-md-3 text-center tentangdetail">
+        <div class="col-sm-6 col-md-4 text-center tentangdetail">
           <i class="fa fa-code fa-5x" aria-hidden="true"></i>
           <h2>Koding</h2>
-          <p class="tentangparagraf">Saya biasa ngoding dengan menggunakan HTML, CSS, PHP, MySQL, Bootstrap, dan yang lainnya. Beberapa hasil dari kodingan saya ialah sebuah website.</p>
+          <p class="tentangparagraf">Saya biasanya ngoding dengan menggunakan HTML, CSS, PHP, MySQL. Saat ini sedang mencoba mempelajari hal lain seperti Javascript, AngularJS, Laravel, Bootstrap, dll.</p>
         </div><!-- /.col-md-4 -->
-        <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <i class="fa fa-headphones fa-5x" aria-hidden="true"></i>
-          <h2>Musik</h2>
-          <p class="tentangparagraf">Saya suka mendengarkan musik disaat tertentu, musik yang saya senangi banyak dari genre J-pop.</p>
-        </div><!-- /.col-md-4 -->
-        <div class="col-sm-6 col-md-3 text-center tentangdetail">
-          <i class="fa fa-gamepad fa-5x" aria-hidden="true"></i>
-          <h2>Gaming</h2>
-          <p class="tentangparagraf">Saya bermain game di PC yang saya rakit sendiri. Jenis game yang saya senangi ialah RPG, FPS, dan sedikit Simulasi.</p>
+        <div class="col-sm-6 col-md-4 text-center tentangdetail">
+          <i class="fa fa-smile-o fa-5x" aria-hidden="true"></i>
+          <h2>Hobi</h2>
+          <p class="tentangparagraf">Saya memiliki beberapa hobi, diantaranya ialah mendengarkan musik, bermain game, dan merakit gunpla.</p>
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
       
@@ -101,10 +80,10 @@
             <h3 class="panel-title"><h3>Koding Website</h3></h3>
           </div>
           <div class="panel-body">
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>HTML</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
                 Amatir
@@ -112,10 +91,10 @@
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>CSS</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
                 Amatir
@@ -123,10 +102,10 @@
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>Bootstrap</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
                 Pemula
@@ -134,10 +113,10 @@
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>PHP</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
                 Pemula
@@ -145,32 +124,32 @@
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>Laravel</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
                 
                 </div>
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>CodeIgniter</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
                 
                 </div>
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>MySQL</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
                 Pemula
@@ -178,34 +157,34 @@
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>Javascript</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
                 
                 </div>
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>Jquery</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
                 
                 </div>
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>AngularJS</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
                 
                 </div>
               </div>
@@ -223,10 +202,10 @@
             <h3 class="panel-title"><h3>Version Control System</h3></h3>
           </div>
           <div class="panel-body">
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>Git</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
                 Pemula
@@ -234,10 +213,10 @@
               </div>
             </div>
 
-            <div class="col-md-1">
+            <div class="col-md-2">
               <h4>GitHub</h4>
             </div>
-            <div class="col-md-11 kemampuanprogress">
+            <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
                 Pemula
@@ -249,7 +228,75 @@
         </div>
         </div>
       </div>
-      
+
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title"><h3>Desain</h3></h3>
+          </div>
+          <div class="panel-body">
+            <div class="col-md-2">
+              <h4>Adobe Photoshop</h4>
+            </div>
+            <div class="col-md-10 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-2">
+              <h4>Adobe Illustrator</h4>
+            </div>
+            <div class="col-md-10 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title"><h3>Video Editing</h3></h3>
+          </div>
+          <div class="panel-body">
+            <div class="col-md-2">
+              <h4>Adobe After Effect</h4>
+            </div>
+            <div class="col-md-10 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+                
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-2">
+              <h4>Adobe Premiere Pro</h4>
+            </div>
+            <div class="col-md-10 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
+                Pemula
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        </div>
+      </div>
+
     </div>
 
     <div class="container pemotong">
@@ -313,6 +360,31 @@
             <a href="http://www.harri-portofolio.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
           </div>
+        </div>
+        <div class="col-sm-6 col-md-5">
+          <div class="thumbnail">
+            <img src="img/portofolio/nusantaraenterprise.jpg" alt="">
+            <div class="caption">
+            <h3>Nusantara Enterprise</h3>
+            <p class="portofolioparagraf">Sebuah website yang dibangun untuk mengenalkan sebuah perusahaan dan produk yang ditawarkannya. website ini dikerjakan oleh tim saya yang berjumlah 3 orang.</p>
+            <p>
+              <span class="label label-info">HTML</span>
+              <span class="label label-info">CSS</span>
+              <span class="label label-info">PHP</span>
+              <span class="label label-info">MySQL</span>
+              <span class="label label-info">Jquery</span>
+              <span class="label label-danger">Teamwork</span>
+            </p>
+            <a href="http://www.nusantara-enterprise.esy.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-10 col-md-offset-1">
+			<div class="thumbnail">
+	            <div class="caption">
+	            <a href="portofolio.php" class="btn btn-success btn-lg tombollebar">Lihat Portofolio Lainnya</a>
+	            </div>
+			</div>
         </div>
         <!-- <div class="col-sm-6 col-md-5">
           <div class="thumbnail">

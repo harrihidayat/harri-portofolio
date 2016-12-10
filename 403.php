@@ -27,23 +27,7 @@
   
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#target-list">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a href="index.php" class="navbar-brand">Harri Hidayat</a>
-      </div>
-
-      <div class="collapse navbar-collapse" id="target-list">
-        <ul class="nav navbar-nav">
-          <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Beranda</a></li>
-          <li><a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Hubungi Saya</a></li>
-        </ul>
-      </div>
-    </nav>
+    <?php require_once 'nav.php' ?>
 
     <div class="container" id="tentang">
      

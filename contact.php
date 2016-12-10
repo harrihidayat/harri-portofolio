@@ -36,12 +36,6 @@ if (isset($_POST['kirim'])) {
     <?php require_once 'css.php' ?>
     <?php require_once 'js.php' ?>
     <style>
-      
-      #awal {
-        background-image: url() !important;
-        height: auto !important;
-        padding-bottom: 40px;
-      }
       #formisian {
         padding-bottom: 40px;
       }
@@ -50,25 +44,9 @@ if (isset($_POST['kirim'])) {
   
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#target-list">
-          <span class="icon-bar top-bar"></span>
-          <span class="icon-bar middle-bar"></span>
-          <span class="icon-bar bottom-bar"></span>
-        </button>
-        <a href="index.php" class="navbar-brand">Harri Hidayat</a>
-      </div>
+    <?php require_once 'nav.php' ?>
 
-      <div class="collapse navbar-collapse" id="target-list">
-        <ul class="nav navbar-nav">
-          <li><a class="efek" href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Beranda</a></li>
-          <li class="active"><a href="contact.php"><i class="fa fa-envelope" aria-hidden="true"></i> Hubungi Saya</a></li>
-        </ul>
-      </div>
-    </nav>
-
-    <div class="container" id="awal">
+    
 
       <div class="starter-template">
         <div class="col-md-8 col-md-offset-2 text-center">
@@ -79,7 +57,7 @@ if (isset($_POST['kirim'])) {
         </div>
       </div>
 
-    </div>
+    
 
     <div class="container" id="formisian">
       
@@ -142,6 +120,7 @@ if (isset($_POST['kirim'])) {
       </form>
 
     </div>
+    
     
     
   </body>

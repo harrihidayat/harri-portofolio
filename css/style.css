@@ -5,10 +5,10 @@ body {
     /*height: auto;*/
 	background-attachment: fixed;
     background-position: center;
-	/*background-size: cover;*/
 	background-size: 100% 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
-
+	
 	/*  min-height: 2000px;*/
   	padding-top: 50px;
 }
@@ -88,6 +88,7 @@ nav {
 
 .tentangparagraf {
 	height: 100px;
+	text-align: justify;
 }
 
 #kemampuan {
@@ -230,4 +231,27 @@ nav {
 }
 .navbar-toggle.collapsed .bottom-bar {
   transform: rotate(0);
+}
+
+/*centered nav pill*/
+
+.center-pills { 
+	display: inline-block; 
+}
+
+.nav-pills > li > a {
+  border-radius: 50px !important;
+}
+
+.teksbold {
+	font-weight: bold !important;
+	font-size: 20px;
+}
+
+/*.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: green !important;
+}*/
+
+.marginbot2em {
+	margin-bottom: 2em;
 }
