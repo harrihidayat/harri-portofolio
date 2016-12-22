@@ -13,7 +13,7 @@
       }
     </style>
   </head>
-  
+
   <body>
 
     <?php require_once 'nav.php' ?>
@@ -33,7 +33,7 @@
     </div>
 
     <div class="container" id="tentang">
-     
+
       <div class="row" id="tentangawal">
         <div class="col-md-8 col-md-offset-2 text-center">
           <h2>Tentang Saya</h2>
@@ -58,21 +58,21 @@
           <p class="tentangparagraf">Saya memiliki beberapa hobi, diantaranya ialah mendengarkan musik, bermain game, dan merakit gunpla.</p>
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
-      
+
     </div>
 
     <div class="container pemotong">
     </div>
 
     <div class="container" id="kemampuan">
-     
+
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Kemampuan Saya</h2>
           <h3>Beberapa kemampuan yang saya miliki.</h3>
         </div>
       </div>
-      
+
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
         <div class="panel panel-primary">
@@ -129,8 +129,8 @@
             </div>
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
-                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
+                Pemula
                 </div>
               </div>
             </div>
@@ -141,7 +141,7 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
                 </div>
               </div>
             </div>
@@ -163,7 +163,7 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
                 </div>
               </div>
             </div>
@@ -174,7 +174,7 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
                 </div>
               </div>
             </div>
@@ -185,7 +185,29 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-2">
+              <h4>Node.js</h4>
+            </div>
+            <div class="col-md-10 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-2">
+              <h4>Express</h4>
+            </div>
+            <div class="col-md-10 kemampuanprogress">
+              <div class="progress">
+                <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+
                 </div>
               </div>
             </div>
@@ -242,7 +264,7 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
                 </div>
               </div>
             </div>
@@ -253,7 +275,7 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
                 </div>
               </div>
             </div>
@@ -276,7 +298,7 @@
             <div class="col-md-10 kemampuanprogress">
               <div class="progress">
                 <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
-                
+
                 </div>
               </div>
             </div>
@@ -303,7 +325,7 @@
     </div>
 
     <div class="container" id="portofolio">
-     
+
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Portofolio Saya</h2>
@@ -401,7 +423,7 @@
     </div>
 
     <div class="container" id="temuisaya">
-     
+
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Temui Saya Lewat Dunia Maya</h2>

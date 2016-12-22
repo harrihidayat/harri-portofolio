@@ -65,17 +65,35 @@
     </div>
   </div>
 </div>
-
 <div class="col-sm-6 col-md-5 col-md-offset-1">
   <div class="thumbnail">
     <img src="img/portofolio/teamreview.jpg" alt="">
     <div class="caption">
     <h3>Team Review</h3>
-    <p class="portofolioparagraf">Sebuah website yang bertujuan memberikan review dan berita seputar dunia game. Website ini dikerjakan oleh tim saya yang berjumlah 7 orang untuk menyelesaikan tugas saat masih belajar di perguruan tinggi.</p>
+    <p class="portofolioparagraf">Sebuah website yang bertujuan memberikan review dan berita seputar dunia game. Website ini dikerjakan oleh tim yang berjumlahkan 7 orang, bertujuan menyelesaikan tugas saat masih belajar di perguruan tinggi.</p>
     <p>
       <span class="label label-info">HTML</span>
       <span class="label label-info">CSS</span>
       <span class="label label-danger">Teamwork</span>
+    </p>
+    <a href="http://www.teamreview.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
+    </div>
+  </div>
+</div>
+<div class="col-sm-6 col-md-5">
+  <div class="thumbnail">
+    <img src="img/portofolio/h2chat.jpg" alt="">
+    <div class="caption">
+    <h3>H2 Chat</h3>
+    <p class="portofolioparagraf">Sebuah aplikasi chatting sederhana berbasis website yang saya bangun pada saat mempelajari Node.js.</p>
+    <br>
+    <p>
+      <span class="label label-info">HTML</span>
+      <span class="label label-info">CSS</span>
+      <span class="label label-info">Bootstrap</span>
+      <span class="label label-info">Jquery</span>
+      <span class="label label-info">Node.js</span>
+      <span class="label label-info">Express</span>
     </p>
     <a href="http://www.teamreview.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
     </div>

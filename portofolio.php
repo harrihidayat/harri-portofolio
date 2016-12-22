@@ -13,13 +13,13 @@
       }
     </style>
   </head>
-  
+
   <body>
 
     <?php require_once 'nav.php' ?>
 
     <div class="container" id="portofolio">
-     
+
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Portofolio Saya</h2>
@@ -36,12 +36,12 @@
               <li><a class="teksbold" data-toggle="pill" href="#menu2">Desain</a></li>
             </ul>
           </div>
-            
+
             <div class="tab-content">
               <div id="home" class="tab-pane fade in active">
                 <div class="row">
                   <?php include 'portofolio-content/pcweb.php' ?>
-                  <?php include 'portofolio-content/pcdesain.php' ?>
+                  <?php include 'portofolio-content/pcdesain_special.php' ?>
                 </div>
               </div>
               <div id="menu1" class="tab-pane fade">
@@ -62,7 +62,7 @@
     </div>
 
     <div class="container" id="temuisaya">
-     
+
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center kemampuanawal">
           <h2>Temui Saya Lewat Dunia Maya</h2>
