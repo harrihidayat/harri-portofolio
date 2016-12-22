@@ -34,8 +34,8 @@
       <div class="row" id="tentangawal">
         <div class="col-lg-8 col-md-offset-2 text-center">
           <h1>ERROR !!!</h1>
-          <h2>404</h2>
-          <h3>Halaman yang anda cari tidak ditemukan, <a href="index.php">Kembali Ke Halaman Utama</a></h3>
+          <h2>500</h2>
+          <h3>Terjadi Kesalahan, <a href="index.php">Kembali Ke Halaman Utama</a></h3>
         </div>
       </div>
 

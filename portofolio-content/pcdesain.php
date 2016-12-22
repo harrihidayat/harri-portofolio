@@ -5,7 +5,7 @@
     <h3>Tracing - Stardust Dragon</h3>
     <p class="portofolioparagraf">Sebuah hasil karya tracing sebuah gambar dengan memanfaatkan tool bernama pentool yang terdapat pada adobe illustrator. karya ini merupakan sebuah tugas saat masih belajar di perguruan tinggi.</p>
     <p>
-      <span class="label label-info">Adobe Illustrator</span>
+      <span class="label label-primary">Adobe Illustrator</span>
     </p>
 
     </div>

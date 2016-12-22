@@ -1,7 +1,14 @@
-ErrorDocument 400 http://harri-portofolio.pe.hu/404.php
-ErrorDocument 404 http://harri-portofolio.pe.hu/404.php
-ErrorDocument 500 http://harri-portofolio.pe.hu/404.php
+RewriteEngine On
 
+RewriteRule http://harri-portofolio.pe.hu/index.php http://harri-portofolio.pe.hu/home [NC, L]
+RewriteRule http://harri-portofolio.pe.hu/portofolio.php http://harri-portofolio.pe.hu/portofolio [NC, L]
+RewriteRule http://harri-portofolio.pe.hu/contact.php http://harri-portofolio.pe.hu/contact [NC, L]
+RewriteRule http://harri-portofolio.pe.hu/403.php http://harri-portofolio.pe.hu/403 [NC, L]
+RewriteRule http://harri-portofolio.pe.hu/404.php http://harri-portofolio.pe.hu/404 [NC, L]
+RewriteRule http://harri-portofolio.pe.hu/500.php http://harri-portofolio.pe.hu/500 [NC, L]
+
+ErrorDocument 404 http://harri-portofolio.pe.hu/404.php
+ErrorDocument 500 http://harri-portofolio.pe.hu/500.php
 
 Options -Indexes
 ErrorDocument 403 http://harri-portofolio.pe.hu/403.php

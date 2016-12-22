@@ -342,8 +342,8 @@
             <p class="portofolioparagraf">PHPRO merupakan sebuah situs pembelajaran pemrograman php dengan beberapa fitur seperti daftar, login, materi, forum, komentar dan kontak, ini merupakan karya saya untuk tugas akhir perkuliahan, untuk frontendnya masih memakai sebuah template.</p>
             <p>
               <span class="label label-info">HTML</span>
-              <span class="label label-info">CSS</span>
-              <span class="label label-info">PHP</span>
+              <span class="label label-primary">CSS</span>
+              <span class="label label-warning">PHP</span>
               <span class="label label-info">MySQL</span>
             </p>
             <a href="http://www.phpro.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
@@ -358,9 +358,9 @@
             <p class="portofolioparagraf">Zero Studio merupakan website yang saya bangun untuk tim yang dulu pernah saya ikuti, website ini berfungsi sebagai pengenal studio tersebut, juga memperlihatkan portofolio, anggota tim, dan kontak, untuk fontendnya juga masih memakai sebuah template.</p>
             <p>
               <span class="label label-info">HTML</span>
-              <span class="label label-info">CSS</span>
-              <span class="label label-info">Bootstrap</span>
-              <span class="label label-info">PHP</span>
+              <span class="label label-primary">CSS</span>
+              <span class="label label-primary">Bootstrap</span>
+              <span class="label label-warning">PHP</span>
               <span class="label label-info">MySQL</span>
             </p>
             <a href="http://www.zerostudio.hol.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
@@ -375,9 +375,9 @@
             <p class="portofolioparagraf">Sebuah website yang saya bangun untuk mengenalkan diri saya dan mempresentasikan portofolio saya.</p>
             <p>
               <span class="label label-info">HTML</span>
-              <span class="label label-info">CSS</span>
-              <span class="label label-info">Bootstrap</span>
-              <span class="label label-info">PHP</span>
+              <span class="label label-primary">CSS</span>
+              <span class="label label-primary">Bootstrap</span>
+              <span class="label label-warning">PHP</span>
             </p>
             <a href="http://www.harri-portofolio.pe.hu" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
             </div>
@@ -391,10 +391,10 @@
             <p class="portofolioparagraf">Sebuah website yang dibangun untuk mengenalkan sebuah perusahaan dan produk yang ditawarkannya. website ini dikerjakan oleh tim saya yang berjumlah 3 orang.</p>
             <p>
               <span class="label label-info">HTML</span>
-              <span class="label label-info">CSS</span>
-              <span class="label label-info">PHP</span>
+              <span class="label label-primary">CSS</span>
+              <span class="label label-warning">PHP</span>
               <span class="label label-info">MySQL</span>
-              <span class="label label-info">Jquery</span>
+              <span class="label label-success">Jquery</span>
               <span class="label label-danger">Teamwork</span>
             </p>
             <a href="http://www.nusantara-enterprise.esy.es" target="_blank" class="btn btn-success btn-lg tombollebar">Lihat</a>
